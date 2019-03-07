@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'angular7-bootstrap4';
+  dtLancamento = new Date(2019,3,23)
 }
